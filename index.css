@@ -18,3 +18,16 @@ main {
 h1 {
     margin: 3rem 1rem 6rem 1rem;
 }
+
+.artObject {
+    width: 80%;
+    height: 200px;
+    margin: 1rem;
+}
+
+#gallery {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
