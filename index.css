@@ -5,6 +5,7 @@ body {
     margin: 0;
     padding: 2rem 0;
     width: 100%;
+    display: block;
 }
 
 main {
@@ -20,8 +21,8 @@ h1 {
 }
 
 .artObject {
-    width: 80%;
-    height: 200px;
+    width: ;
+    height: ;
     margin: 1rem;
 }
 
